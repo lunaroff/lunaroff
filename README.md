@@ -1,7 +1,13 @@
-### Socials 👋
-## Discord - lunaroff
-## Telegram - astasladream
-## Lolzteam - astasiadream
+### Socials 🌱
+## Discord 
+#lunaroff
+
+## Telegram 
+# astasladream
+
+## Lolzteam 
+$ astasiadream
+
 
 <!--
 **lunaroff/lunaroff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
